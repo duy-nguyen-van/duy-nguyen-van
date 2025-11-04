@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Duy-Nguyen-Van">
+  <a href="https://github.com/duy-nguyen-van">
     <img src="assets/hello-world.gif" alt="Hello World, Guess Who? It's Duy"/>
   </a>
 </div>
